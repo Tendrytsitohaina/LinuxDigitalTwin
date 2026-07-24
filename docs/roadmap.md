@@ -6,15 +6,14 @@
 - [x] Project structure
 - [x] Vision document
 - [x] Roadmap
-- [ ] Architecture
-- [ ] Modules documentation
-- [ ] Learning journal
+- [x] Architecture
+- [x] Modules documentation
 
 ---
 
 ## Phase 1 - Core System
 
-- [ ] System Information
+- [x] System Information
 - [ ] CPU
 - [ ] Memory
 - [ ] Storage
